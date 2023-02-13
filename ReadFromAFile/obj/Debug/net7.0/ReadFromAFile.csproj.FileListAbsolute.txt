@@ -1,0 +1,15 @@
+D:\BBD\C#\ReadFromAFile\bin\Debug\net7.0\ReadFromAFile.exe
+D:\BBD\C#\ReadFromAFile\bin\Debug\net7.0\ReadFromAFile.deps.json
+D:\BBD\C#\ReadFromAFile\bin\Debug\net7.0\ReadFromAFile.runtimeconfig.json
+D:\BBD\C#\ReadFromAFile\bin\Debug\net7.0\ReadFromAFile.dll
+D:\BBD\C#\ReadFromAFile\bin\Debug\net7.0\ReadFromAFile.pdb
+D:\BBD\C#\ReadFromAFile\obj\Debug\net7.0\ReadFromAFile.csproj.AssemblyReference.cache
+D:\BBD\C#\ReadFromAFile\obj\Debug\net7.0\ReadFromAFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\BBD\C#\ReadFromAFile\obj\Debug\net7.0\ReadFromAFile.AssemblyInfoInputs.cache
+D:\BBD\C#\ReadFromAFile\obj\Debug\net7.0\ReadFromAFile.AssemblyInfo.cs
+D:\BBD\C#\ReadFromAFile\obj\Debug\net7.0\ReadFromAFile.csproj.CoreCompileInputs.cache
+D:\BBD\C#\ReadFromAFile\obj\Debug\net7.0\ReadFromAFile.dll
+D:\BBD\C#\ReadFromAFile\obj\Debug\net7.0\refint\ReadFromAFile.dll
+D:\BBD\C#\ReadFromAFile\obj\Debug\net7.0\ReadFromAFile.pdb
+D:\BBD\C#\ReadFromAFile\obj\Debug\net7.0\ReadFromAFile.genruntimeconfig.cache
+D:\BBD\C#\ReadFromAFile\obj\Debug\net7.0\ref\ReadFromAFile.dll
