@@ -15,6 +15,7 @@ namespace TxtFileReader
             }
 
             idNumbers = File.ReadAllLines(filePath);
+            int count = 0;
 
             foreach (string idNumber in idNumbers)
             {
@@ -24,7 +25,12 @@ namespace TxtFileReader
                     continue;
                 }
 
-                int year = int.Parse(idNumber.Substring(0, 2));
+                int yearPrefix = int.Parse(idNumber.Substring(0, 2));
+                int year = yearPrefix < 22 ? 2000 + yearPrefix : 1900 + yearPrefix;
+                if (year > 2010)
+                {
+                    count++;
+                }
                 int month = int.Parse(idNumber.Substring(2, 2));
                 int day = int.Parse(idNumber.Substring(4, 2));
 
@@ -35,7 +41,10 @@ namespace TxtFileReader
                 }
 
                 DateTime dateOfBirth = new DateTime(year, month, day);
-                Console.WriteLine("Date of birth: " + dateOfBirth.ToString("yy/MM/dd"));
+                Console.WriteLine("Date of birth: " + dateOfBirth.ToString("dd/MM/yyyy"));
+
+                string outputFilePath = "peopleBornAfter2010.txt";
+                File.WriteAllText(outputFilePath, count.ToString());
             }
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BBD\\C#\\ReadFromAFile\\ReadFromAFile.csproj": {}
+    "D:\\BBD\\C#\\IDNumerReader\\ReadFromAFile\\ReadFromAFile.csproj": {}
   },
   "projects": {
-    "D:\\BBD\\C#\\ReadFromAFile\\ReadFromAFile.csproj": {
+    "D:\\BBD\\C#\\IDNumerReader\\ReadFromAFile\\ReadFromAFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BBD\\C#\\ReadFromAFile\\ReadFromAFile.csproj",
+        "projectUniqueName": "D:\\BBD\\C#\\IDNumerReader\\ReadFromAFile\\ReadFromAFile.csproj",
         "projectName": "ReadFromAFile",
-        "projectPath": "D:\\BBD\\C#\\ReadFromAFile\\ReadFromAFile.csproj",
+        "projectPath": "D:\\BBD\\C#\\IDNumerReader\\ReadFromAFile\\ReadFromAFile.csproj",
         "packagesPath": "C:\\Users\\bbdnet2861\\.nuget\\packages\\",
-        "outputPath": "D:\\BBD\\C#\\ReadFromAFile\\obj\\",
+        "outputPath": "D:\\BBD\\C#\\IDNumerReader\\ReadFromAFile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bbdnet2861\\AppData\\Roaming\\NuGet\\NuGet.Config"

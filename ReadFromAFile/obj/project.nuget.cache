@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U+DwUZLYnZVVa4OXnBbat3iCfolkDR87lzagfYNOa1v2lZHdgHOGuIw5ADvGXmLZUqNppMtY+McBrHmqyLxGWw==",
+  "dgSpecHash": "RiFjZEvlEeqqWQrQlZTJxTe/PV8FMpa15K6JXhd8dd4hI5ea8/Podr4UUOtIfTL5FXt0gRtTxd2lr34vccQMIw==",
   "success": true,
-  "projectFilePath": "D:\\BBD\\C#\\ReadFromAFile\\ReadFromAFile.csproj",
+  "projectFilePath": "D:\\BBD\\C#\\IDNumerReader\\ReadFromAFile\\ReadFromAFile.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
